@@ -22,9 +22,9 @@ A execução do VS Code pode ser feita pelo terminal executando o comando ````co
 
 Existem uma infinidade de extensões que podem ser adicionadas ao VS Code deixando a ferramenta mais funcional, mas isso fica para uma próxima.
 
->**Referências:**
-[https://code.visualstudio.com/docs/](https://code.visualstudio.com/docs/)
-[https://code.visualstudio.com/download/](https://code.visualstudio.com/download)
+>**Referências:**  <br/>
+[https://code.visualstudio.com/docs/](https://code.visualstudio.com/docs/)  <br/>
+[https://code.visualstudio.com/download/](https://code.visualstudio.com/download)  <br/>
 
 
 
