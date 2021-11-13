@@ -9,7 +9,7 @@ Acesse: [https://code.visualstudio.com/download](https://code.visualstudio.com/d
 **2º Passo** - Após o Download finalizado acesse via terminal o diretório de Downloads, e execute o seguinte comando para finalizar a instalação do Visual Studio Code (VS Code)
 
 ````
-$ sudo apt install ./<arquivo baixado>.deb
+sudo apt install ./<arquivo baixado>.deb
 ````
 
 ![Instalação VSCode](https://drive.google.com/uc?export=view&id=1z1ajhIgBmDU08rW4bOrPqpayMXul3q1_)
